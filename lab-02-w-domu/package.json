@@ -1,0 +1,20 @@
+{
+  "name": "practicehome",
+  "version": "1.0.0",
+  "description": "practice at home",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice",
+    "home"
+  ],
+  "author": "Eremdir",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "openweather-apis": "^4.1.0",
+    "yargs": "^14.2.0"
+  }
+}
