@@ -13,7 +13,7 @@
   "author": "Eremdir",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "openweather-apis": "^4.1.0",
     "yargs": "^14.2.0"
   }
